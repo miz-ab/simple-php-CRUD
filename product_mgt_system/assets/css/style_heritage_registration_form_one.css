@@ -1,0 +1,169 @@
+.registration_form_header{
+	text-align: center;
+}
+
+#btn_next_form_one {
+    float: right;
+}
+#btn_prve_btn{
+	float: left;
+}
+
+#btn_next_btn:hover{
+    //background-color: #000;
+}
+
+.input_form_one {
+    height:50px; 
+    text-align: center;
+    font-size: large;
+}
+
+.error_username {
+    border: 1px solid red;
+}
+
+.error_text {
+	color: red;
+}
+
+.normal_text {
+	color: green;
+}
+ 
+ #err_must_be_no {
+	text-align: center;
+	font-size: 14px;	
+}
+
+#err_username_exist{
+	text-align: center;
+	font-size: 14px;
+}
+
+#err_id_exist {
+	text-align: center;
+	font-size: 14px;	
+}
+
+//registration form two file chooser
+
+#heritage_photo {
+	
+}
+
+.test {
+	background-color: #22f;
+}
+
+//css login page
+
+
+.login_body_main{
+
+	border: 1px solid rgb(0, 0, 0,0.4);
+    box-shadow: 0 0 5px #462902;
+    padding-top: 140px;
+    margin-top: 70px;
+    margin-bottom: 50px;
+    padding-bottom: 20px;
+}
+
+.login_body{
+	border: 1px solid rgb(0, 0, 0,0.4);
+    box-shadow: 0 0 5px #462902;
+    padding-top: 140px;
+    margin-top: 70px;
+    margin-bottom: 50px;
+    padding-bottom: 20px;
+}
+
+#btn_register a{
+	text-decoration: none;
+	color: #fff;
+
+}
+
+#error_username_or_password{
+	text-align: center;
+	background-color: rgba(158, 40, 40, 0.3);
+	height: 50px;
+}
+.alert_login_faield{
+	text-align: center;
+	background-color: rgba(158, 40, 40, 0.3);
+	height: 50px;
+	font-size: 18px;
+}
+#id_text_err_uname_pword{
+	color: red;
+	padding-top: 15px;
+}
+.login_username{
+	height:50px; 
+    text-align: center;
+    font-size: large;
+}
+
+.login_password{
+	height:50px; 
+    text-align: center;
+    font-size: large;
+}
+#forgot_password{
+	float: right;
+	margin-right: 20px;
+}
+
+#new_password_info {
+	text-align: center;
+}
+
+#valid_email_address {
+	text-align: center;
+	font-size: 14px;
+}
+
+.action_section {
+	margin-bottom: 50px;
+}
+
+/*Bete css Begin*/
+.add_photo{
+  padding:5px 10px;  
+  border:1px solid #abacab;
+  position:relative;
+  color:#000;
+  border-radius:5px;
+  text-align:left;
+  float:left;
+  cursor:pointer;
+  height: 50px;
+  width: 100%;
+}
+.hide_file {
+    position: absolute;
+    z-index: 1000;
+    opacity: 0;
+    cursor: pointer;
+    right: 0;
+    top: 10px;
+    height: 100%;
+    font-size: 24px;
+    
+}
+/*Bete css End*/
+
+
+//style heritage detaile
+
+//style container 
+
+
+
+ 
+
+
+
+
+
